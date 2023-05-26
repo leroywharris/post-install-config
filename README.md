@@ -45,15 +45,15 @@ In the image above, I logon to VM-1 using remote desktop.
 <img src="https://i.imgur.com/X4IsIxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-in the image above, I Installed / Enabled IIS in Windows WITH CGI and Common HTTP Features
+In the image above, I Installed / Enabled IIS in Windows WITH CGI and Common HTTP Features
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Aafqm7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the image above, I Downloaded and installed PHP Manager for IIS
 </p>
 <br />
 
