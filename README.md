@@ -29,6 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Download and install the Rewrite Module 
 - Create the directory C:\PHP
 - Download PHP 7.3.8 and unzip the contents into C:\PHP
+- Download and install VC_redist.x86.exe
+- download and install MySQL 5.5.62
 
 
 <h2>Configuration Steps</h2>
