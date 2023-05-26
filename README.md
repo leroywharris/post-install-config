@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Download and install the Rewrite Module 
 - Create the directory C:\PHP
 - Download PHP 7.3.8 and unzip the contents into C:\PHP
-- Download and install VC_redist.x86.exe
+- Download and install Visual C++
 - download and install MySQL 5.5.62
 
 
@@ -76,10 +76,10 @@ In the image above, Create the directory C:\PHP and Downloaded PHP 7.3.8 and unz
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MuRNsrT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the image above, I downloaded and installed Visual C++
 </p>
 <br />
 
