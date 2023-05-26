@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Connect to VM-1
-- Install / Enable IIS in Windows WITH CGI and Common HTTP Features
+- Install and Enable IIS in Windows WITH CGI and Common HTTP Features
 - Download and install PHP Manager for IIS 
 - Download and install the Rewrite Module 
 - Create the directory C:\PHP
