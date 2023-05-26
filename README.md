@@ -84,7 +84,7 @@ In the image above, I downloaded and installed Visual C++ on VM-1.
 <br />
 
 <p>
-<img src="https://i.imgur.com/qGRf0Mq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WYEqE8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the image above, I Downloaded and installed MySQL on VM-1.
