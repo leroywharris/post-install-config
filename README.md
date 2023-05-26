@@ -47,7 +47,7 @@ In the image above, I logon to VM-1 using remote desktop.
 <img src="https://i.imgur.com/X4IsIxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I installed / Enabled IIS in Windows WITH CGI and Common HTTP Features
+In the image above, I installed and Enabled IIS in Windows WITH CGI on VM-1.
 </p>
 <br />
 
@@ -55,7 +55,7 @@ In the image above, I installed / Enabled IIS in Windows WITH CGI and Common HTT
 <img src="https://i.imgur.com/Aafqm7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I downloaded and installed PHP Manager for IIS
+In the image above, I downloaded and installed PHP Manager for IIS on VM-1.
 </p>
 <br />
 
@@ -63,7 +63,7 @@ In the image above, I downloaded and installed PHP Manager for IIS
 <img src="https://i.imgur.com/GU87i6L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I downloaded and installed the Rewrite Module 
+In the image above, I downloaded and installed the Rewrite Module on VM-1.
 </p>
 <br />
 
@@ -71,7 +71,7 @@ In the image above, I downloaded and installed the Rewrite Module
 <img src="https://i.imgur.com/jCNxabq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, Create the directory C:\PHP and Downloaded PHP 7.3.8 and unzip the contents into C:\PHP
+In the image above, Create the directory C:\PHP and Downloaded PHP and unzip the contents into C:\PHP on VM-1.
 </p>
 <br />
 
@@ -79,7 +79,7 @@ In the image above, Create the directory C:\PHP and Downloaded PHP 7.3.8 and unz
 <img src="https://i.imgur.com/MuRNsrT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I downloaded and installed Visual C++
+In the image above, I downloaded and installed Visual C++ on VM-1.
 </p>
 <br />
 
@@ -87,7 +87,7 @@ In the image above, I downloaded and installed Visual C++
 <img src="https://i.imgur.com/qGRf0Mq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I Downloaded and installed MySQL
+In the image above, I Downloaded and installed MySQL on VM-1.
 </p>
 <br />
 
