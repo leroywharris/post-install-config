@@ -1,10 +1,10 @@
-# post-install-config
+ # post-install-config
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration & Requirements of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10
 
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Install Configuration Requirements</h2>
 
 - Connect to VM-1
 - Install and Enable IIS in Windows WITH CGI and Common HTTP Features
