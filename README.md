@@ -52,7 +52,7 @@ STEP 2, I installed and Enabled IIS in Windows WITH CGI on VM-1.
 <img src="https://i.imgur.com/Aafqm7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-STEP 3, I downloaded and installed PHP Manager for IIS PHP Manager for IIS  on VM-1.
+STEP 3, I downloaded and installed PHP Manager for IIS  [PHP Manager for IIS]([https://github.com/leroywharris/osticket-prereqs](https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link)) on VM-1.
 </p>
 <br />
 
