@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration & Requirements of the open
 
 - Connect to VM-1 using Remote Desktop
 - Install and Enable IIS in Windows WITH CGI and Common HTTP Features
-- Download and install PHP Manager for IIS [linkedin]: https://www.linkedin.com/in/leroyh/
+- Download and install PHP Manager for IIS 
 - Download and install the Rewrite Module 
 - Create the directory C:\PHP
 - Download PHP 7.3.8 and unzip the contents into C:\PHP
