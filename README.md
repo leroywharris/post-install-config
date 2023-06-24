@@ -14,10 +14,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
+- Windows 10
 
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
@@ -37,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/uPqaRnc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I logon to VM-1 using remote desktop.
+STEP 1, I log on to VM-1 using remote desktop.
 </p>
 <br />
 
@@ -45,7 +43,7 @@ In the image above, I logon to VM-1 using remote desktop.
 <img src="https://i.imgur.com/X4IsIxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I installed and Enabled IIS in Windows WITH CGI on VM-1.
+STEP 2, I installed and Enabled IIS in Windows WITH CGI on VM-1.
 </p>
 <br />
 
@@ -53,7 +51,7 @@ In the image above, I installed and Enabled IIS in Windows WITH CGI on VM-1.
 <img src="https://i.imgur.com/Aafqm7C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I downloaded and installed PHP Manager for IIS on VM-1.
+STEP 3, I downloaded and installed PHP Manager for IIS on VM-1.
 </p>
 <br />
 
@@ -61,7 +59,7 @@ In the image above, I downloaded and installed PHP Manager for IIS on VM-1.
 <img src="https://i.imgur.com/GU87i6L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I downloaded and installed the Rewrite Module on VM-1.
+STEP 4, I downloaded and installed the Rewrite Module on VM-1.
 </p>
 <br />
 
@@ -69,7 +67,7 @@ In the image above, I downloaded and installed the Rewrite Module on VM-1.
 <img src="https://i.imgur.com/jCNxabq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, Create the directory C:\PHP and Downloaded PHP and unzip the contents into C:\PHP on VM-1.
+STEP 5, Create the directory C:\PHP ON VM-1 and then Downloaded PHP and unzip the contents into C:\PHP on VM-1.
 </p>
 <br />
 
@@ -77,7 +75,7 @@ In the image above, Create the directory C:\PHP and Downloaded PHP and unzip the
 <img src="https://i.imgur.com/MuRNsrT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I downloaded and installed Visual C++ on VM-1.
+STEP 6, I downloaded and installed Visual C++ on VM-1.
 </p>
 <br />
 
@@ -85,7 +83,7 @@ In the image above, I downloaded and installed Visual C++ on VM-1.
 <img src="https://i.imgur.com/WYEqE8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, I Downloaded and installed MySQL on VM-1.
+STEP 7, I Downloaded and installed MySQL on VM-1.
 </p>
 <br />
 
