@@ -20,7 +20,7 @@ This tutorial outlines the post-install configuration & Requirements of the open
 
 <h2>Post-Install Configuration Requirements</h2>
 
-- Connect to VM-1
+- Connect to VM-1 using Remote Desktop
 - Install and Enable IIS in Windows WITH CGI and Common HTTP Features
 - Download and install PHP Manager for IIS 
 - Download and install the Rewrite Module 
