@@ -53,7 +53,6 @@ STEP 2, I installed and Enabled IIS in Windows WITH CGI on VM-1.
 </p>
 <p>
 STEP 3, I downloaded and installed PHP Manager for IIS on VM-1. 
- - ### [PHP Manager](https://www.youtube.com)
 </p>
 <br />
 
