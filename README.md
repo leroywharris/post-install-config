@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration & Requirements of the open
 <img src="https://i.imgur.com/uPqaRnc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-STEP 1, I log on to VM-1 using remote desktop.
+STEP 1, You must log on to your VM that you create in Azure (VM-1) using remote desktop. 
 </p>
 <br />
 
