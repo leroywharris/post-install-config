@@ -102,7 +102,7 @@ Click “Install Now!”
 </p>
 <p>
 
-Congratulations, hopefully it is installed with no errors!
+You should see the Congratulations page and hopefully, it is installed with no errors!
 
   
 </p>
