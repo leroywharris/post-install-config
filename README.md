@@ -84,7 +84,15 @@ STEP 6, Download and install Visual C++ on your VM (VM-1).
 <img src="https://i.imgur.com/WYEqE8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-STEP 7, Download and install MySQL on your VM (VM-1).
+STEP 7, Download and install MySQL on your VM (VM-1). Then open Heidi SQL and Create a new session with the root/Password1. Then connect to the session & Create a database called “osTicket”.
+
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
+ 
 </p>
 <br />
 
@@ -94,7 +102,8 @@ STEP 7, Download and install MySQL on your VM (VM-1).
 </p>
 <p>
 
-Congratulation screen
+Congratulations, hopefully it is installed with no errors!
+
   
 </p>
 <br />
