@@ -112,7 +112,7 @@ You should see the Congratulations page and hopefully, it is installed with no e
 <img src="https://i.imgur.com/cX65kex.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above, osTicket Login
+You can log in using the username and password you created. (osTicket Login page)
 </p>
 <br />
 
