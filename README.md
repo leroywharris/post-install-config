@@ -44,7 +44,7 @@ STEP 1, You must log onto the VM that you created in Azure (VM-1) using Remote D
 <img src="https://i.imgur.com/X4IsIxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-STEP 2,  Install and Enable IIS in Windows WITH CGI on your VM (VM-1).
+STEP 2,  Install and enable IIS in Windows WITH CGI on your VM (VM-1).
 </p>
 <br />
 
@@ -68,7 +68,7 @@ STEP 4, Download and install the Rewrite Module on your VM (VM-1).
 <img src="https://i.imgur.com/jCNxabq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-STEP 5, Create the directory (folder) C:\PHP on your VM (VM-1) and then Download PHP and unzip the contents into that folder (C:\PHP) on  your VM (VM-1).
+STEP 5, Create the directory (folder) C:\PHP on your VM (VM-1) and then download PHP and unzip the contents into that folder (C:\PHP) on  your VM (VM-1).
 </p>
 <br />
 
@@ -84,9 +84,9 @@ STEP 6, Download and install Visual C++ on your VM (VM-1).
 <img src="https://i.imgur.com/WYEqE8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-STEP 7, Download and install MySQL on your VM (VM-1). Then open Heidi SQL and Create a new session with the root/Password1. Then connect to the session & Create a database called “osTicket”.
+STEP 7, Download and install MySQL on your VM (VM-1). Then open Heidi SQL and create a new session with the root/Password1. Then connect to the session & create a database called “osTicket”.
 
-Continue Setting up osticket in the browser
+Continue setting up osticket in the browser
 MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: Password1
