@@ -5,7 +5,7 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 An effective helpdesk ticketing system allows organizations to record and regulate incoming support requests. 
-This tutorial outlines the post-install configuration & Requirements of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration & requirements of the open-source help desk ticketing system osTicket.<br />
 
 
 
